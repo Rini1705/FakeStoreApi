@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6386591-a45f-4e15-bc36-cbb64bb0fd51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/google/common/base/annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/api/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Cucumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/UserSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/user/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/user/Get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/user/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/user/SingleGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/api/User.feature" afterDir="false" />
+    <list default="true" id="f6386591-a45f-4e15-bc36-cbb64bb0fd51" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/src/test/java/starter/user/SingleGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/starter/user/SingleGet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1681561678874</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1681580273644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681580273644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,5 +174,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
