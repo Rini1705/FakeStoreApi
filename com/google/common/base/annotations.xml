@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.common.base.CharMatcher com.google.common.base.CharMatcher is(char)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_-&gt;new&quot;"/>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
