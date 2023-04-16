@@ -5,10 +5,10 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.thucydides.core.annotations.Steps;
-import starter.user.SingleGet;
-import starter.user.Post;
-import starter.user.Get;
-import starter.user.Delete;
+import starter.featurestore.SingleGet;
+import starter.featurestore.Post;
+import starter.featurestore.Get;
+import starter.featurestore.Delete;
 
 public class UserSteps {
     @Steps

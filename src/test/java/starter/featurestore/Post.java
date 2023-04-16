@@ -1,16 +1,13 @@
-package starter.user;
+package starter.featurestore;
 
 import io.restassured.http.ContentType;
-import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Step;
-import org.json.simple.JSONObject;
 
 import java.util.HashMap;
 
 import static io.restassured.RestAssured.*;
 import static net.serenitybdd.rest.SerenityRest.restAssuredThat;
-import static net.serenitybdd.rest.SerenityRest.then;
-import static org.hamcrest.Matchers.equalTo;
+
 public class Post {
     @Step("I perform POST.operational for login")
     public void PerformPOSToperationalforlogin() {
