@@ -9,6 +9,6 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"},
         features = "src/test/resources/api"
 )
-public class Cucumber {
+public class CucumberTestSuite {
 
 }

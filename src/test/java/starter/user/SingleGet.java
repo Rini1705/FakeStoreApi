@@ -22,7 +22,7 @@ public class SingleGet {
 
     @Step("I receive valid data for detail post")
     public void validateDataDetailPost() {
-        restAssuredThat(response -> response.body("userId", equalTo(1)));
         restAssuredThat(response -> response.body("id", equalTo(5)));
+        restAssuredThat(response -> response.body("userId", equalTo(1)));
     }
 }

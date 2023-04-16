@@ -40,25 +40,25 @@ public class UserSteps {
     }
 
 
-    @Given("I set POST api endpoints")
-    public void setPostApiEndpoints() {
-        post.setPostApiEndpoint();
+    @Given("I perform POST.operational for login")
+    public void PerformPOSToperationalforlogin() {
+        post.PerformPOSToperationalforlogin();
     }
 
-    @When("I send POST HTTP request")
-    public void sendPostHttpRequest() {
-        post.sendPostHttpRequest();
-    }
-
-    @Then("I receive valid HTTP response code 201")
-    public void receiveValidHttp201() {
-        post.receiveHttpResponseCode201();
-    }
-
-    @And("I receive valid data for new post")
-    public void validateDataNewPost() {
-        post.validateDataNewPost();
-    }
+//    @When("I send POST HTTP request")
+//    public void sendPostHttpRequest() {
+//        post.sendPostHttpRequest();
+//    }
+//
+//    @Then("I receive valid HTTP response code 201")
+//    public void receiveValidHttp201() {
+//        post.receiveHttpResponseCode201();
+//    }
+//
+//    @And("I receive valid data for new post")
+//    public void validateDataNewPost() {
+//        post.validateDataNewPost();
+//    }
 
     @Given("I set GET api endpoints to get single post")
     public void setGetApiEndpointsToGetSinglePost() {
