@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6386591-a45f-4e15-bc36-cbb64bb0fd51" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+    <list default="true" id="f6386591-a45f-4e15-bc36-cbb64bb0fd51" name="Changes" comment="add actions/checkout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +208,49 @@
       <option name="project" value="LOCAL" />
       <updated>1681657383345</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="yml">
+      <created>1681824251808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681824251808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add run">
+      <created>1681824673457</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681824673457</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add runs-on">
+      <created>1681826571192</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681826571192</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add new">
+      <created>1681826666404</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681826666404</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add needs build">
+      <created>1681826837546</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681826837546</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add actions/checkout">
+      <created>1681827180313</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681827180314</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +269,12 @@
     <MESSAGE value="FakeStoreApi" />
     <MESSAGE value="update singleGet" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="yml" />
+    <MESSAGE value="add run" />
+    <MESSAGE value="add runs-on" />
+    <MESSAGE value="add new" />
+    <MESSAGE value="add needs build" />
+    <MESSAGE value="add actions/checkout" />
+    <option name="LAST_COMMIT_MESSAGE" value="add actions/checkout" />
   </component>
 </project>
