@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6386591-a45f-4e15-bc36-cbb64bb0fd51" name="Changes" comment="FakeStoreApi">
+    <list default="true" id="f6386591-a45f-4e15-bc36-cbb64bb0fd51" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/starter/user/SingleGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/starter/user/SingleGet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/api/User.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/api/All.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681622740717</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update singleGet">
+      <created>1681657196357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681657196357</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1681657383345</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681657383345</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,8 +225,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <MESSAGE value="update" />
     <MESSAGE value="FakeStoreApi" />
-    <option name="LAST_COMMIT_MESSAGE" value="FakeStoreApi" />
+    <MESSAGE value="update singleGet" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
